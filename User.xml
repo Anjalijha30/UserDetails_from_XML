@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<userlist>
+<user>
+<userid>01</userid>
+<username>Anjali</username>
+<address>Gummidipoondi,Chennai</address>
+<phone>6379369448</phone>
+<email>ganjalijha2000@gmail.com</email>
+</user>
+<user>
+<userid>02</userid>
+<username>Anshu</username>
+<address>Noida,Delhi</address>
+<phone>9888888888</phone>
+<email>anshujha@gmail.com</email>
+</user>
+<user>
+<userid>03</userid>
+<username>Shweta</username>
+<address>Noida, Delhi</address>
+<phone>9866666666</phone>
+<email>shweta@yahoo.com</email>
+</user>
+<user>
+<userid>usr04</userid>
+<username>Pradumna</username>
+<address>Noida, Delhi</address>
+<phone>9835994445</phone>
+<email>pradumna@yahoo.com</email>
+</user>
+<user>
+<userid>05</userid>
+<username>Dhanwantri</username>
+<address>Chennai</address>
+<phone>968877555</phone>
+<email>dhanu@yahoo.com</email>
+</user> 
+<user> 
